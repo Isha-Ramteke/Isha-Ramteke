@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/ssssshivamsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/shivam-kumar-singh-635b5328a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-singh-635b5328a/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shivamsinghiiita?igsh=MXFyNGtic2VyaWZhZg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamsinghiiita" height="30" width="40" /></a>
+<a href="https://twitter.com/IshuRamtek2802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/isha-ramteke-15a028234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isha-ramteke-15a028234/" height="30" width="40" /></a>
+<a href="httpwww.instagram.com/shivamsinghiiitas://?igsh=MXFyNGtic2VyaWZhZg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamsinghiiita" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
