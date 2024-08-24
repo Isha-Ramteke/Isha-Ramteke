@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ishuramteke0080@gmail.com**
 
-- 📄 Checkout My [RESUME](https://drive.google.com/file/d/1RKOiJkKyIhnA_K9GmyE2QaLaspMj1_-p/view)
+- 📄 Checkout My [RESUME](https://drive.google.com/file/d/1iJRms4fuIcECNBOYkTZu3-Tw2O8LhtpL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
